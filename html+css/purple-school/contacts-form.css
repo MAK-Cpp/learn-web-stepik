@@ -1,0 +1,18 @@
+main {
+    background-color: #1E1F29;
+    color: #FAFAFA;
+}
+
+label {
+    color: #AFB2BF;
+}
+
+input, textarea, select {
+    background-color: #2E2D3D;
+    color: #FAFAFA;
+}
+
+button {
+    background-color: #6C38CC;
+    color: #FAFAFA;
+}
